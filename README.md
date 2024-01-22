@@ -1,2 +1,2 @@
 # Plane-Simulator
- Challenge 1 
+ My first game project. Plane Simulator
